@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-D:/Cours/5eme_annee/VisualisationModelisation3D/VisualisationModelisation/Executable/StarWarsBowling.exe
+D:/Cours/5eme_annee/VisualisationModelisation3D/StarWarsBowling/Executable/StarWarsBowling.exe
 SceneListBegin?
 Assets/Scenes/BowlingStart.unity
 Assets/Scenes/Bowling.unity
